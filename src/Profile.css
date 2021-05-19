@@ -1,0 +1,17 @@
+
+
+.avatarstyle img{
+   width: 185px;
+    height: 200px;   
+    border: 1px solid black;
+    animation: mymove 5s infinite;
+}
+
+.avatarstyle{
+    border-radius: 15px 50px;
+    border: 2.5px solid rgb(22, 177, 17);
+}
+
+@keyframes mymove {
+  50% {border-radius: 50px;}
+}
