@@ -9,8 +9,8 @@
 
 .avatarstyle{
     border-radius: 15px 50px;
-    border: 2.5px solid rgb(22, 177, 17);
-}
+    border: 2.5px solid rgb(22, 177, 17); }   
+    
 
 @keyframes mymove {
   50% {border-radius: 50px;}

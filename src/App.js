@@ -2,11 +2,15 @@ import './App.css';
 import Avatar from './Avatar';
 import 'tachyons';
 
-function App() {
+function App() { 
 
-  return  (  <>
-<div className=" fonts ">
+  return  (  
+
+    <>
+<div className =" fonts ">
 <Avatar />
+
+
 </div>
   </>
   )
