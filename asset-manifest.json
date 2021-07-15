@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/AvatarS/static/css/main.bbdcb33d.chunk.css",
+    "main.js": "/AvatarS/static/js/main.b7200bd4.chunk.js",
+    "main.js.map": "/AvatarS/static/js/main.b7200bd4.chunk.js.map",
+    "runtime-main.js": "/AvatarS/static/js/runtime-main.772fb75b.js",
+    "runtime-main.js.map": "/AvatarS/static/js/runtime-main.772fb75b.js.map",
+    "static/css/2.c1f4f5f4.chunk.css": "/AvatarS/static/css/2.c1f4f5f4.chunk.css",
+    "static/js/2.c9cf912b.chunk.js": "/AvatarS/static/js/2.c9cf912b.chunk.js",
+    "static/js/2.c9cf912b.chunk.js.map": "/AvatarS/static/js/2.c9cf912b.chunk.js.map",
+    "index.html": "/AvatarS/index.html",
+    "static/css/2.c1f4f5f4.chunk.css.map": "/AvatarS/static/css/2.c1f4f5f4.chunk.css.map",
+    "static/css/main.bbdcb33d.chunk.css.map": "/AvatarS/static/css/main.bbdcb33d.chunk.css.map",
+    "static/js/2.c9cf912b.chunk.js.LICENSE.txt": "/AvatarS/static/js/2.c9cf912b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.772fb75b.js",
+    "static/css/2.c1f4f5f4.chunk.css",
+    "static/js/2.c9cf912b.chunk.js",
+    "static/css/main.bbdcb33d.chunk.css",
+    "static/js/main.b7200bd4.chunk.js"
+  ]
+}
